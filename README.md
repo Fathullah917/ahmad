@@ -6,7 +6,7 @@
     <title>Personal Branding Saya</title>
     <style>
         body {
-            background-image: url('gambar/bb.jpg'); /* Path ke foto Anda */
+            background-image: url('https://github.com/Fathullah917/ahmad/blob/main/bb.jpg?raw=true.jpg'); /* Path ke foto Anda */
             background-size: cover; /* Membuat gambar menutupi seluruh area background */
             background-repeat: no-repeat; /* Mencegah gambar berulang */
             background-attachment: fixed; /* Membuat background tetap saat di-scroll */
